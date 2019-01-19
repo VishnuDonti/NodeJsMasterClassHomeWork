@@ -1,2 +1,2 @@
 # NodeJsMasterClassHomeWork
-This repo for submitting the Node.js Master class homeworks 
+This repo for submitting the Node.js Master class tasks 
